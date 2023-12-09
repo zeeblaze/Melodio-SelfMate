@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-S3-WROOM-1-N8R8")(type "KiCad")(uri "${KIPRJMOD}/Melodio_SelfMate-V2-sym/ESP32-S3-WROOM-1-N8R8.kicad_sym")(options "")(descr ""))
+  (lib (name "Melodio_V2")(type "KiCad")(uri "${KIPRJMOD}/Melodio_SelfMate-V2-sym/Melodio_V2.kicad_sym")(options "")(descr ""))
+  (lib (name "MPU-6500")(type "KiCad")(uri "${KIPRJMOD}/Melodio_SelfMate-V2-sym/MPU-6500.kicad_sym")(options "")(descr ""))
+  (lib (name "TPA6130A2RTJR")(type "KiCad")(uri "${KIPRJMOD}/Melodio_SelfMate-V2-sym/TPA6130A2RTJR.kicad_sym")(options "")(descr ""))
+  (lib (name "USB2244-AEZG-06")(type "KiCad")(uri "${KIPRJMOD}/Melodio_SelfMate-V2-sym/USB2244-AEZG-06.kicad_sym")(options "")(descr ""))
+)
