@@ -35,7 +35,11 @@ Reset
 Volume Up and Volume Down buttons control the  headphone amp directly from software, so their functionalities can be altered and hardcode the amplifier volume directly from software. 
 
 SLIDER SWITCHES
+
 SPOTIFY CONNECT
+
 MUSIC PLAYER
+
 STEMMA QT CONNECTOR
+
 IR (Transmitter and Receiver)
