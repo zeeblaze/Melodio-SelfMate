@@ -4,7 +4,7 @@ This portable programmable device packs a lot into its little brain, including a
 
 
 
-KEY FEATURES:
+#KEY FEATURES:
 
 
 
