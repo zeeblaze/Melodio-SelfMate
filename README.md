@@ -2,23 +2,13 @@ Melodio Self-Mate is a cutting-edge portable electronic device designed to revol
 
 This portable programmable device packs a lot into its little brain, including and not Limited to, IR(receiver and transmitter), High speed mass storage, SD card, touch wheel technology, USB switch, which gives it a endless possibility of what is achievable with it. 
 
-
-
-#KEY FEATURES:
-
-
+# KEY FEATURES:
 
 ESP32-S3: Melodio makes use of ESP32-S3 as its heart which ensures high-performance and efficiency, enabling a seamless user experience.
 
-
-
 DAC: Melodio uses the high quality TI PCM5102A 32bit, 348kHz, 112dB audio stereo DAC to output digital audio signal coming from the ESP32-S3 as analog signal for the headphone amplifier.
 
-
-
 HEADPHONE AMP: High quality analog audio signal coming from the PCM5102A is received by yet another high quality headphone amplifier from Texas Instrument, TI TPA6130A2 138-mW stereo analog input headphone amplifier with I2C control interface, which then output its amplified audio signal to a headphone jack. The I2c control interface of this amplifier allows the volume of the amplifier output audio to be controlled from the software.
-
-
 
 DISPLAY: Melodio implements a 1.8 inch 128x160 ST7735 TFT display as a visual interface.
 
